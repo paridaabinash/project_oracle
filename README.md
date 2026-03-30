@@ -2,7 +2,7 @@
 
 An institutional-grade, real-time algorithmic trading and backtesting engine engineered for high-throughput cryptocurrency markets (specifically Binance). 
 
-Unlike traditional "fire-and-forget" retail trading bots that blindly execute logic based on lagging crossover indicators, PyProphet is built around a dynamic, probabilistic **Two-Layer Scoring Engine** and **Active Trade Lifecycle Monitoring**. 
+Unlike traditional "fire-and-forget" retail trading bots that blindly execute logic based on lagging crossover indicators, PyProphet is built around a dynamic, probabilistic **Two-Layer Scoring Engine** and **Active Trade Lifecycle Monitoring**.
 
 The system treats every market movement as a fluid probability rather than a binary trigger, continuously re-evaluating the validity of a trade even after execution.
 
